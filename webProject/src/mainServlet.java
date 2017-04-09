@@ -28,6 +28,7 @@ public class mainServlet extends HttpServlet {
 	 */
 	public ServletConfig getServletConfig() {
 		// TODO Auto-generated method stub
+		System.out.println("mymessage");
 		return null;
 	}
 
